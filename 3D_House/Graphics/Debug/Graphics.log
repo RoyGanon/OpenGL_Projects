@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(28,19): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(28,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(34,8): warning C4101: 'j': unreferenced local variable
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(34,6): warning C4101: 'i': unreferenced local variable
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(214,28): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(214,17): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(227,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(227,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(239,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(239,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(257,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(257,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(259,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(264,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(264,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(266,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(297,9): warning C4101: 'dist': unreferenced local variable
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(295,9): warning C4101: 'j': unreferenced local variable
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(295,6): warning C4101: 'i': unreferenced local variable
+C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Graphics\main.cpp(337,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Graphics.vcxproj -> C:\Users\royig\OneDrive\Documents\Study\גרפיקה ממוחשבת\3D_house\Graphics\Debug\Graphics.exe
